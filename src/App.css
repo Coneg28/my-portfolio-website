@@ -1,0 +1,7 @@
+* {
+  
+  box-sizing: border-box; /*"border-box" is a value for the box-sizing property. It is used to include the padding and border in an element's total width and height.*/
+  margin: 0;
+  padding: 0;
+  font-family: 'Encode San Expanded', sans-serif;
+}
